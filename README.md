@@ -6,3 +6,8 @@ python-spider-simple是python网络爬虫的入门教程，介绍了Request、be
 2 requests和beautifulsoup4
 
 3	scrapy爬虫框架
+
+
+
+                                                                                              2019-12-13
+                                                                                              令狐飞侠
